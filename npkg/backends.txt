@@ -1,0 +1,9 @@
+apt
+dnf
+pacman
+portage
+flatpak
+npm
+web
+offline
+exe

@@ -1,0 +1,2 @@
+Builds all editions as real ISOs from Ubuntu 24.04.2 base.
+Includes KDE, GNOME, npkg, Calamares, Help Center, firmware verifier.

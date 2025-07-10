@@ -1,2 +1,3 @@
-# neptuneos-25.06
-neptuneOS
+# NeptuneOS tfbsps (ISO Output Version)
+
+Run `./make_neptune.sh` to build real ISOs.
